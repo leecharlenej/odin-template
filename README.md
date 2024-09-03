@@ -1,0 +1,1 @@
+- Run `npm webpack serve`, which will host page on http://localhost:8080/.
